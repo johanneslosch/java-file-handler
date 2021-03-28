@@ -1,0 +1,10 @@
+me/johanneslosch/javafilehandler/config/ConfigReader.java
+ me.johanneslosch.javafilehandler.config.ConfigReader
+me/johanneslosch/javafilehandler/FileHelper.java
+ me.johanneslosch.javafilehandler.FileHelper
+me/johanneslosch/javafilehandler/ReadFile.java
+ me.johanneslosch.javafilehandler.ReadFile
+me/johanneslosch/javafilehandler/config/ConfigWriter.java
+ me.johanneslosch.javafilehandler.config.ConfigWriter
+me/johanneslosch/javafilehandler/WriteFile.java
+ me.johanneslosch.javafilehandler.WriteFile

@@ -1,0 +1,11 @@
+-classpath 'C:\\dev\\java-file-handler\\build\\classes\\java\\main;C:\\dev\\java-file-handler\\build\\resources\\main'
+-d 'C:\\dev\\java-file-handler\\build\\docs\\javadoc'
+-doctitle 'java-file-handler 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'java-file-handler 1.0-SNAPSHOT API'
+'C:\\dev\\java-file-handler\\src\\main\\java\\me\\johanneslosch\\javafilehandler\\config\\ConfigReader.java'
+'C:\\dev\\java-file-handler\\src\\main\\java\\me\\johanneslosch\\javafilehandler\\config\\ConfigWriter.java'
+'C:\\dev\\java-file-handler\\src\\main\\java\\me\\johanneslosch\\javafilehandler\\FileHelper.java'
+'C:\\dev\\java-file-handler\\src\\main\\java\\me\\johanneslosch\\javafilehandler\\ReadFile.java'
+'C:\\dev\\java-file-handler\\src\\main\\java\\me\\johanneslosch\\javafilehandler\\WriteFile.java'
